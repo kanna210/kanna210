@@ -1,5 +1,5 @@
 # Hello, I'm Kanna Sugiyama
-<a href="https://linkedin.com"><img src="linkedin.com/in/kanna-sugiyama-288026282" /></a>
+<a href="linkedin.com/in/kanna-sugiyama-288026282"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [I would like to work as a media/software/application/web developer]
 
