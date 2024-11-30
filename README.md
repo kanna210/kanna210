@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm Kanna Sugiyama
+<a href="https://linkedin.com"><img src="linkedin.com/in/kanna-sugiyama-288026282" /></a>
 
-<!--
-**kanna210/kanna210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[I would like to work as a media/software/application/web developer]
 
-Here are some ideas to get you started:
+I graduate May 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I started to learn from 2029 as a hobby have been growing and now I am confident that this is exactly what I would like to do for living.
+
+
+| Skill
+HTML, CSS, JavaScript
+web development
+iOS application development
+
+
+
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-ITIL%20Foundation-000080?style=for-the-badge&logo=itil&logoColor=white" />
+</div>
+
+
+## Projects
+- Fusion web pages
+- card game application
+- angree dog application
