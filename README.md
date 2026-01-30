@@ -3,17 +3,14 @@
 
 [I would like to work as a media/software/application/web developer]
 
-I graduate May 2025.
+I graduated in May 2025 from Ohio University.
+I am currently studying Computer Science at Finger Lakes Community College.
 
-Things I started to learn from 2029 as a hobby have been growing and now I am confident that this is exactly what I would like to do for living.
+Things I started to learn from 2019 as a hobby have been growing and now I am confident that this is exactly what I would like to do for a living.
 
 
 | Skill
-HTML, CSS, JavaScript
-web development
-iOS application development
-
-
+HTML, CSS, JavaScript, C, Java, SwiftUI
 
 
 ## Certifications
@@ -23,6 +20,7 @@ iOS application development
 
 
 ## Projects
-- Fusion web pages
-- card game application
-- angree dog application
+- Restaurant, Fusion web pages
+- card game iOS application
+- Japanese learning flash card iOS application
+- angry dog application
